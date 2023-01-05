@@ -17,6 +17,9 @@ for (var i = 0; i < baseData.length; i++) {
             temp.items.push(tempBase[key]);
         }
     });
+    temp.items.sort(function(a, b) {
+        return a - b;
+    });
     allData[i] = temp;
 }
 
