@@ -4,8 +4,7 @@ const table = fs.readFileSync('input.json');
 const tbaseData = JSON.parse(table);
 var baseData = tbaseData.table
 
-var items = [
-    {
+var items = [{
         "wearable_id": 1,
         "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
         "name": "skeleton mask",
@@ -90,7 +89,7 @@ for (var i = 0; i < baseData.length; i++) {
 
 let data = JSON.stringify(allData);
 // console.log(data);
-fs.appendFile('traits.json', data, function (err) {
+fs.appendFile('traits.json', data, function(err) {
     if (err) throw err;
     console.log('Saved!');
 });

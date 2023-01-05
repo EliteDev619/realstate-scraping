@@ -1,8 +1,7 @@
 WEARABLES = {
     "0": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -42,8 +41,7 @@ WEARABLES = {
     },
     "1": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -83,8 +81,7 @@ WEARABLES = {
     },
     "2": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -124,8 +121,7 @@ WEARABLES = {
     },
     "3": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -174,8 +170,7 @@ WEARABLES = {
     },
     "4": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -224,8 +219,7 @@ WEARABLES = {
     },
     "5": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -265,8 +259,7 @@ WEARABLES = {
     },
     "6": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -324,8 +317,7 @@ WEARABLES = {
     },
     "7": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -365,8 +357,7 @@ WEARABLES = {
     },
     "8": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -415,8 +406,7 @@ WEARABLES = {
     },
     "9": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -474,8 +464,7 @@ WEARABLES = {
     },
     "10": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -515,8 +504,7 @@ WEARABLES = {
     },
     "11": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -565,8 +553,7 @@ WEARABLES = {
     },
     "12": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -624,8 +611,7 @@ WEARABLES = {
     },
     "13": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -665,8 +651,7 @@ WEARABLES = {
     },
     "14": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -706,8 +691,7 @@ WEARABLES = {
     },
     "15": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -747,8 +731,7 @@ WEARABLES = {
     },
     "16": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -797,8 +780,7 @@ WEARABLES = {
     },
     "17": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -847,8 +829,7 @@ WEARABLES = {
     },
     "18": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -897,8 +878,7 @@ WEARABLES = {
     },
     "19": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -947,8 +927,7 @@ WEARABLES = {
     },
     "20": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -988,8 +967,7 @@ WEARABLES = {
     },
     "21": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -1038,8 +1016,7 @@ WEARABLES = {
     },
     "22": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -1079,8 +1056,7 @@ WEARABLES = {
     },
     "23": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -1129,8 +1105,7 @@ WEARABLES = {
     },
     "24": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -1188,8 +1163,7 @@ WEARABLES = {
     },
     "25": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -1229,8 +1203,7 @@ WEARABLES = {
     },
     "26": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -1279,8 +1252,7 @@ WEARABLES = {
     },
     "27": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -1320,8 +1292,7 @@ WEARABLES = {
     },
     "28": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -1370,8 +1341,7 @@ WEARABLES = {
     },
     "29": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -1420,8 +1390,7 @@ WEARABLES = {
     },
     "30": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -1479,8 +1448,7 @@ WEARABLES = {
     },
     "31": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -1529,8 +1497,7 @@ WEARABLES = {
     },
     "32": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -1570,8 +1537,7 @@ WEARABLES = {
     },
     "33": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -1620,8 +1586,7 @@ WEARABLES = {
     },
     "34": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -1670,8 +1635,7 @@ WEARABLES = {
     },
     "35": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -1729,8 +1693,7 @@ WEARABLES = {
     },
     "36": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -1788,8 +1751,7 @@ WEARABLES = {
     },
     "37": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -1829,8 +1791,7 @@ WEARABLES = {
     },
     "38": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -1870,8 +1831,7 @@ WEARABLES = {
     },
     "39": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -1920,8 +1880,7 @@ WEARABLES = {
     },
     "40": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -1970,8 +1929,7 @@ WEARABLES = {
     },
     "41": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -2011,8 +1969,7 @@ WEARABLES = {
     },
     "42": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -2052,8 +2009,7 @@ WEARABLES = {
     },
     "43": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2111,8 +2067,7 @@ WEARABLES = {
     },
     "44": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -2152,8 +2107,7 @@ WEARABLES = {
     },
     "45": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -2193,8 +2147,7 @@ WEARABLES = {
     },
     "46": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -2234,8 +2187,7 @@ WEARABLES = {
     },
     "47": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -2284,8 +2236,7 @@ WEARABLES = {
     },
     "48": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -2325,8 +2276,7 @@ WEARABLES = {
     },
     "49": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2375,8 +2325,7 @@ WEARABLES = {
     },
     "50": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -2425,8 +2374,7 @@ WEARABLES = {
     },
     "51": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -2466,8 +2414,7 @@ WEARABLES = {
     },
     "52": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2507,8 +2454,7 @@ WEARABLES = {
     },
     "53": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2557,8 +2503,7 @@ WEARABLES = {
     },
     "54": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -2607,8 +2552,7 @@ WEARABLES = {
     },
     "55": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -2657,8 +2601,7 @@ WEARABLES = {
     },
     "56": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2707,8 +2650,7 @@ WEARABLES = {
     },
     "57": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -2757,8 +2699,7 @@ WEARABLES = {
     },
     "58": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -2816,8 +2757,7 @@ WEARABLES = {
     },
     "59": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -2866,8 +2806,7 @@ WEARABLES = {
     },
     "60": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -2907,8 +2846,7 @@ WEARABLES = {
     },
     "61": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -2948,8 +2886,7 @@ WEARABLES = {
     },
     "62": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -2998,8 +2935,7 @@ WEARABLES = {
     },
     "63": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -3048,8 +2984,7 @@ WEARABLES = {
     },
     "64": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -3089,8 +3024,7 @@ WEARABLES = {
     },
     "65": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -3148,8 +3082,7 @@ WEARABLES = {
     },
     "66": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -3189,8 +3122,7 @@ WEARABLES = {
     },
     "67": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -3239,8 +3171,7 @@ WEARABLES = {
     },
     "68": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -3289,8 +3220,7 @@ WEARABLES = {
     },
     "69": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -3330,8 +3260,7 @@ WEARABLES = {
     },
     "70": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -3380,8 +3309,7 @@ WEARABLES = {
     },
     "71": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -3430,8 +3358,7 @@ WEARABLES = {
     },
     "72": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -3480,8 +3407,7 @@ WEARABLES = {
     },
     "73": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -3521,8 +3447,7 @@ WEARABLES = {
     },
     "74": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -3562,8 +3487,7 @@ WEARABLES = {
     },
     "75": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -3603,8 +3527,7 @@ WEARABLES = {
     },
     "76": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -3644,8 +3567,7 @@ WEARABLES = {
     },
     "77": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -3694,8 +3616,7 @@ WEARABLES = {
     },
     "78": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -3753,8 +3674,7 @@ WEARABLES = {
     },
     "79": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -3803,8 +3723,7 @@ WEARABLES = {
     },
     "80": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -3853,8 +3772,7 @@ WEARABLES = {
     },
     "81": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -3894,8 +3812,7 @@ WEARABLES = {
     },
     "82": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -3953,8 +3870,7 @@ WEARABLES = {
     },
     "83": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -4003,8 +3919,7 @@ WEARABLES = {
     },
     "84": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -4044,8 +3959,7 @@ WEARABLES = {
     },
     "85": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -4094,8 +4008,7 @@ WEARABLES = {
     },
     "86": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -4144,8 +4057,7 @@ WEARABLES = {
     },
     "87": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -4185,8 +4097,7 @@ WEARABLES = {
     },
     "88": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -4226,8 +4137,7 @@ WEARABLES = {
     },
     "89": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -4267,8 +4177,7 @@ WEARABLES = {
     },
     "90": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -4308,8 +4217,7 @@ WEARABLES = {
     },
     "91": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -4358,8 +4266,7 @@ WEARABLES = {
     },
     "92": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -4408,8 +4315,7 @@ WEARABLES = {
     },
     "93": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -4458,8 +4364,7 @@ WEARABLES = {
     },
     "94": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -4508,8 +4413,7 @@ WEARABLES = {
     },
     "95": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -4549,8 +4453,7 @@ WEARABLES = {
     },
     "96": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -4599,8 +4502,7 @@ WEARABLES = {
     },
     "97": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -4649,8 +4551,7 @@ WEARABLES = {
     },
     "98": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -4699,8 +4600,7 @@ WEARABLES = {
     },
     "99": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -4749,8 +4649,7 @@ WEARABLES = {
     },
     "100": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -4799,8 +4698,7 @@ WEARABLES = {
     },
     "101": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -4858,8 +4756,7 @@ WEARABLES = {
     },
     "102": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -4899,8 +4796,7 @@ WEARABLES = {
     },
     "103": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -4949,8 +4845,7 @@ WEARABLES = {
     },
     "104": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -4999,8 +4894,7 @@ WEARABLES = {
     },
     "105": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -5049,8 +4943,7 @@ WEARABLES = {
     },
     "106": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -5099,8 +4992,7 @@ WEARABLES = {
     },
     "107": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -5140,8 +5032,7 @@ WEARABLES = {
     },
     "108": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5199,8 +5090,7 @@ WEARABLES = {
     },
     "109": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -5240,8 +5130,7 @@ WEARABLES = {
     },
     "110": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5290,8 +5179,7 @@ WEARABLES = {
     },
     "111": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -5340,8 +5228,7 @@ WEARABLES = {
     },
     "112": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5381,8 +5268,7 @@ WEARABLES = {
     },
     "113": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -5422,8 +5308,7 @@ WEARABLES = {
     },
     "114": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -5472,8 +5357,7 @@ WEARABLES = {
     },
     "115": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -5522,8 +5406,7 @@ WEARABLES = {
     },
     "116": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -5563,8 +5446,7 @@ WEARABLES = {
     },
     "117": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5604,8 +5486,7 @@ WEARABLES = {
     },
     "118": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -5654,8 +5535,7 @@ WEARABLES = {
     },
     "119": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -5713,8 +5593,7 @@ WEARABLES = {
     },
     "120": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -5754,8 +5633,7 @@ WEARABLES = {
     },
     "121": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5795,8 +5673,7 @@ WEARABLES = {
     },
     "122": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -5854,8 +5731,7 @@ WEARABLES = {
     },
     "123": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -5895,8 +5771,7 @@ WEARABLES = {
     },
     "124": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -5936,8 +5811,7 @@ WEARABLES = {
     },
     "125": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -5986,8 +5860,7 @@ WEARABLES = {
     },
     "126": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -6036,8 +5909,7 @@ WEARABLES = {
     },
     "127": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -6086,8 +5958,7 @@ WEARABLES = {
     },
     "128": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -6127,8 +5998,7 @@ WEARABLES = {
     },
     "129": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -6168,8 +6038,7 @@ WEARABLES = {
     },
     "130": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -6209,8 +6078,7 @@ WEARABLES = {
     },
     "131": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -6250,8 +6118,7 @@ WEARABLES = {
     },
     "132": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -6300,8 +6167,7 @@ WEARABLES = {
     },
     "133": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -6341,8 +6207,7 @@ WEARABLES = {
     },
     "134": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -6391,8 +6256,7 @@ WEARABLES = {
     },
     "135": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -6441,8 +6305,7 @@ WEARABLES = {
     },
     "136": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -6482,8 +6345,7 @@ WEARABLES = {
     },
     "137": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -6523,8 +6385,7 @@ WEARABLES = {
     },
     "138": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -6564,8 +6425,7 @@ WEARABLES = {
     },
     "139": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -6623,8 +6483,7 @@ WEARABLES = {
     },
     "140": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -6664,8 +6523,7 @@ WEARABLES = {
     },
     "141": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -6723,8 +6581,7 @@ WEARABLES = {
     },
     "142": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -6764,8 +6621,7 @@ WEARABLES = {
     },
     "143": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -6805,8 +6661,7 @@ WEARABLES = {
     },
     "144": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -6846,8 +6701,7 @@ WEARABLES = {
     },
     "145": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -6887,8 +6741,7 @@ WEARABLES = {
     },
     "146": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -6946,8 +6799,7 @@ WEARABLES = {
     },
     "147": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -6987,8 +6839,7 @@ WEARABLES = {
     },
     "148": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -7028,8 +6879,7 @@ WEARABLES = {
     },
     "149": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7078,8 +6928,7 @@ WEARABLES = {
     },
     "150": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -7119,8 +6968,7 @@ WEARABLES = {
     },
     "151": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -7160,8 +7008,7 @@ WEARABLES = {
     },
     "152": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -7210,8 +7057,7 @@ WEARABLES = {
     },
     "153": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7251,8 +7097,7 @@ WEARABLES = {
     },
     "154": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7292,8 +7137,7 @@ WEARABLES = {
     },
     "155": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -7342,8 +7186,7 @@ WEARABLES = {
     },
     "156": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -7383,8 +7226,7 @@ WEARABLES = {
     },
     "157": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -7433,8 +7275,7 @@ WEARABLES = {
     },
     "158": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7483,8 +7324,7 @@ WEARABLES = {
     },
     "159": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -7524,8 +7364,7 @@ WEARABLES = {
     },
     "160": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7574,8 +7413,7 @@ WEARABLES = {
     },
     "161": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7615,8 +7453,7 @@ WEARABLES = {
     },
     "162": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -7665,8 +7502,7 @@ WEARABLES = {
     },
     "163": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -7706,8 +7542,7 @@ WEARABLES = {
     },
     "164": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -7747,8 +7582,7 @@ WEARABLES = {
     },
     "165": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -7788,8 +7622,7 @@ WEARABLES = {
     },
     "166": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -7838,8 +7671,7 @@ WEARABLES = {
     },
     "167": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -7888,8 +7720,7 @@ WEARABLES = {
     },
     "168": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -7947,8 +7778,7 @@ WEARABLES = {
     },
     "169": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -8006,8 +7836,7 @@ WEARABLES = {
     },
     "170": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -8065,8 +7894,7 @@ WEARABLES = {
     },
     "171": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -8115,8 +7943,7 @@ WEARABLES = {
     },
     "172": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -8156,8 +7983,7 @@ WEARABLES = {
     },
     "173": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -8206,8 +8032,7 @@ WEARABLES = {
     },
     "174": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -8256,8 +8081,7 @@ WEARABLES = {
     },
     "175": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -8306,8 +8130,7 @@ WEARABLES = {
     },
     "176": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -8356,8 +8179,7 @@ WEARABLES = {
     },
     "177": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -8406,8 +8228,7 @@ WEARABLES = {
     },
     "178": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -8447,8 +8268,7 @@ WEARABLES = {
     },
     "179": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -8488,8 +8308,7 @@ WEARABLES = {
     },
     "180": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -8538,8 +8357,7 @@ WEARABLES = {
     },
     "181": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -8588,8 +8406,7 @@ WEARABLES = {
     },
     "182": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -8638,8 +8455,7 @@ WEARABLES = {
     },
     "183": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -8679,8 +8495,7 @@ WEARABLES = {
     },
     "184": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -8729,8 +8544,7 @@ WEARABLES = {
     },
     "185": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -8788,8 +8602,7 @@ WEARABLES = {
     },
     "186": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -8829,8 +8642,7 @@ WEARABLES = {
     },
     "187": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -8870,8 +8682,7 @@ WEARABLES = {
     },
     "188": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -8911,8 +8722,7 @@ WEARABLES = {
     },
     "189": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -8952,8 +8762,7 @@ WEARABLES = {
     },
     "190": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -9002,8 +8811,7 @@ WEARABLES = {
     },
     "191": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9052,8 +8860,7 @@ WEARABLES = {
     },
     "192": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -9093,8 +8900,7 @@ WEARABLES = {
     },
     "193": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -9134,8 +8940,7 @@ WEARABLES = {
     },
     "194": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9184,8 +8989,7 @@ WEARABLES = {
     },
     "195": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -9234,8 +9038,7 @@ WEARABLES = {
     },
     "196": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -9275,8 +9078,7 @@ WEARABLES = {
     },
     "197": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -9325,8 +9127,7 @@ WEARABLES = {
     },
     "198": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9393,8 +9194,7 @@ WEARABLES = {
     },
     "199": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9434,8 +9234,7 @@ WEARABLES = {
     },
     "200": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -9475,8 +9274,7 @@ WEARABLES = {
     },
     "201": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -9534,8 +9332,7 @@ WEARABLES = {
     },
     "202": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9584,8 +9381,7 @@ WEARABLES = {
     },
     "203": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -9634,8 +9430,7 @@ WEARABLES = {
     },
     "204": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -9675,8 +9470,7 @@ WEARABLES = {
     },
     "205": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -9725,8 +9519,7 @@ WEARABLES = {
     },
     "206": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -9775,8 +9568,7 @@ WEARABLES = {
     },
     "207": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -9816,8 +9608,7 @@ WEARABLES = {
     },
     "208": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -9857,8 +9648,7 @@ WEARABLES = {
     },
     "209": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -9898,8 +9688,7 @@ WEARABLES = {
     },
     "210": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9948,8 +9737,7 @@ WEARABLES = {
     },
     "211": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -9998,8 +9786,7 @@ WEARABLES = {
     },
     "212": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -10039,8 +9826,7 @@ WEARABLES = {
     },
     "213": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -10089,8 +9875,7 @@ WEARABLES = {
     },
     "214": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -10130,8 +9915,7 @@ WEARABLES = {
     },
     "215": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -10171,8 +9955,7 @@ WEARABLES = {
     },
     "216": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -10221,8 +10004,7 @@ WEARABLES = {
     },
     "217": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -10280,8 +10062,7 @@ WEARABLES = {
     },
     "218": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -10321,8 +10102,7 @@ WEARABLES = {
     },
     "219": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -10371,8 +10151,7 @@ WEARABLES = {
     },
     "220": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -10412,8 +10191,7 @@ WEARABLES = {
     },
     "221": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -10453,8 +10231,7 @@ WEARABLES = {
     },
     "222": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -10521,8 +10298,7 @@ WEARABLES = {
     },
     "223": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -10562,8 +10338,7 @@ WEARABLES = {
     },
     "224": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -10612,8 +10387,7 @@ WEARABLES = {
     },
     "225": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -10653,8 +10427,7 @@ WEARABLES = {
     },
     "226": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -10703,8 +10476,7 @@ WEARABLES = {
     },
     "227": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -10753,8 +10525,7 @@ WEARABLES = {
     },
     "228": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -10794,8 +10565,7 @@ WEARABLES = {
     },
     "229": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -10853,8 +10623,7 @@ WEARABLES = {
     },
     "230": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -10903,8 +10672,7 @@ WEARABLES = {
     },
     "231": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -10944,8 +10712,7 @@ WEARABLES = {
     },
     "232": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -10994,8 +10761,7 @@ WEARABLES = {
     },
     "233": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -11044,8 +10810,7 @@ WEARABLES = {
     },
     "234": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -11094,8 +10859,7 @@ WEARABLES = {
     },
     "235": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -11135,8 +10899,7 @@ WEARABLES = {
     },
     "236": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -11176,8 +10939,7 @@ WEARABLES = {
     },
     "237": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -11217,8 +10979,7 @@ WEARABLES = {
     },
     "238": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -11258,8 +11019,7 @@ WEARABLES = {
     },
     "239": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -11299,8 +11059,7 @@ WEARABLES = {
     },
     "240": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -11358,8 +11117,7 @@ WEARABLES = {
     },
     "241": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -11408,8 +11166,7 @@ WEARABLES = {
     },
     "242": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -11449,8 +11206,7 @@ WEARABLES = {
     },
     "243": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -11508,8 +11264,7 @@ WEARABLES = {
     },
     "244": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -11549,8 +11304,7 @@ WEARABLES = {
     },
     "245": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -11590,8 +11344,7 @@ WEARABLES = {
     },
     "246": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -11631,8 +11384,7 @@ WEARABLES = {
     },
     "247": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -11681,8 +11433,7 @@ WEARABLES = {
     },
     "248": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -11731,8 +11482,7 @@ WEARABLES = {
     },
     "249": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -11781,8 +11531,7 @@ WEARABLES = {
     },
     "250": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -11831,8 +11580,7 @@ WEARABLES = {
     },
     "251": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -11881,8 +11629,7 @@ WEARABLES = {
     },
     "252": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -11922,8 +11669,7 @@ WEARABLES = {
     },
     "253": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -11963,8 +11709,7 @@ WEARABLES = {
     },
     "254": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12004,8 +11749,7 @@ WEARABLES = {
     },
     "255": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -12054,8 +11798,7 @@ WEARABLES = {
     },
     "256": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12095,8 +11838,7 @@ WEARABLES = {
     },
     "257": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -12145,8 +11887,7 @@ WEARABLES = {
     },
     "258": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -12195,8 +11936,7 @@ WEARABLES = {
     },
     "259": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -12236,8 +11976,7 @@ WEARABLES = {
     },
     "260": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -12286,8 +12025,7 @@ WEARABLES = {
     },
     "261": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -12336,8 +12074,7 @@ WEARABLES = {
     },
     "262": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -12386,8 +12123,7 @@ WEARABLES = {
     },
     "263": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -12436,8 +12172,7 @@ WEARABLES = {
     },
     "264": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -12486,8 +12221,7 @@ WEARABLES = {
     },
     "265": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12536,8 +12270,7 @@ WEARABLES = {
     },
     "266": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -12586,8 +12319,7 @@ WEARABLES = {
     },
     "267": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -12636,8 +12368,7 @@ WEARABLES = {
     },
     "268": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -12677,8 +12408,7 @@ WEARABLES = {
     },
     "269": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -12727,8 +12457,7 @@ WEARABLES = {
     },
     "270": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12777,8 +12506,7 @@ WEARABLES = {
     },
     "271": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12818,8 +12546,7 @@ WEARABLES = {
     },
     "272": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -12868,8 +12595,7 @@ WEARABLES = {
     },
     "273": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -12927,8 +12653,7 @@ WEARABLES = {
     },
     "274": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -12977,8 +12702,7 @@ WEARABLES = {
     },
     "275": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -13036,8 +12760,7 @@ WEARABLES = {
     },
     "276": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -13077,8 +12800,7 @@ WEARABLES = {
     },
     "277": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -13118,8 +12840,7 @@ WEARABLES = {
     },
     "278": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -13159,8 +12880,7 @@ WEARABLES = {
     },
     "279": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -13209,8 +12929,7 @@ WEARABLES = {
     },
     "280": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -13259,8 +12978,7 @@ WEARABLES = {
     },
     "281": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -13300,8 +13018,7 @@ WEARABLES = {
     },
     "282": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -13350,8 +13067,7 @@ WEARABLES = {
     },
     "283": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -13391,8 +13107,7 @@ WEARABLES = {
     },
     "284": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -13450,8 +13165,7 @@ WEARABLES = {
     },
     "285": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -13491,8 +13205,7 @@ WEARABLES = {
     },
     "286": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -13541,8 +13254,7 @@ WEARABLES = {
     },
     "287": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -13582,8 +13294,7 @@ WEARABLES = {
     },
     "288": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -13623,8 +13334,7 @@ WEARABLES = {
     },
     "289": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -13664,8 +13374,7 @@ WEARABLES = {
     },
     "290": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -13705,8 +13414,7 @@ WEARABLES = {
     },
     "291": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -13755,8 +13463,7 @@ WEARABLES = {
     },
     "292": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -13805,8 +13512,7 @@ WEARABLES = {
     },
     "293": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -13855,8 +13561,7 @@ WEARABLES = {
     },
     "294": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -13905,8 +13610,7 @@ WEARABLES = {
     },
     "295": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -13946,8 +13650,7 @@ WEARABLES = {
     },
     "296": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -13987,8 +13690,7 @@ WEARABLES = {
     },
     "297": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -14037,8 +13739,7 @@ WEARABLES = {
     },
     "298": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -14096,8 +13797,7 @@ WEARABLES = {
     },
     "299": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -14146,8 +13846,7 @@ WEARABLES = {
     },
     "300": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -14196,8 +13895,7 @@ WEARABLES = {
     },
     "301": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -14255,8 +13953,7 @@ WEARABLES = {
     },
     "302": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -14296,8 +13993,7 @@ WEARABLES = {
     },
     "303": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -14337,8 +14033,7 @@ WEARABLES = {
     },
     "304": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -14378,8 +14073,7 @@ WEARABLES = {
     },
     "305": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -14428,8 +14122,7 @@ WEARABLES = {
     },
     "306": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -14478,8 +14171,7 @@ WEARABLES = {
     },
     "307": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -14528,8 +14220,7 @@ WEARABLES = {
     },
     "308": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -14569,8 +14260,7 @@ WEARABLES = {
     },
     "309": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -14619,8 +14309,7 @@ WEARABLES = {
     },
     "310": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -14660,8 +14349,7 @@ WEARABLES = {
     },
     "311": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -14710,8 +14398,7 @@ WEARABLES = {
     },
     "312": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -14769,8 +14456,7 @@ WEARABLES = {
     },
     "313": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -14819,8 +14505,7 @@ WEARABLES = {
     },
     "314": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -14869,8 +14554,7 @@ WEARABLES = {
     },
     "315": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -14919,8 +14603,7 @@ WEARABLES = {
     },
     "316": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -14969,8 +14652,7 @@ WEARABLES = {
     },
     "317": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -15019,8 +14701,7 @@ WEARABLES = {
     },
     "318": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -15078,8 +14759,7 @@ WEARABLES = {
     },
     "319": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -15119,8 +14799,7 @@ WEARABLES = {
     },
     "320": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -15178,8 +14857,7 @@ WEARABLES = {
     },
     "321": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -15237,8 +14915,7 @@ WEARABLES = {
     },
     "322": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -15278,8 +14955,7 @@ WEARABLES = {
     },
     "323": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -15337,8 +15013,7 @@ WEARABLES = {
     },
     "324": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -15396,8 +15071,7 @@ WEARABLES = {
     },
     "325": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -15437,8 +15111,7 @@ WEARABLES = {
     },
     "326": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -15496,8 +15169,7 @@ WEARABLES = {
     },
     "327": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -15537,8 +15209,7 @@ WEARABLES = {
     },
     "328": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -15578,8 +15249,7 @@ WEARABLES = {
     },
     "329": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -15619,8 +15289,7 @@ WEARABLES = {
     },
     "330": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -15669,8 +15338,7 @@ WEARABLES = {
     },
     "331": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -15728,8 +15396,7 @@ WEARABLES = {
     },
     "332": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -15769,8 +15436,7 @@ WEARABLES = {
     },
     "333": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -15810,8 +15476,7 @@ WEARABLES = {
     },
     "334": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -15860,8 +15525,7 @@ WEARABLES = {
     },
     "335": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -15901,8 +15565,7 @@ WEARABLES = {
     },
     "336": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -15942,8 +15605,7 @@ WEARABLES = {
     },
     "337": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -15983,8 +15645,7 @@ WEARABLES = {
     },
     "338": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -16033,8 +15694,7 @@ WEARABLES = {
     },
     "339": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -16074,8 +15734,7 @@ WEARABLES = {
     },
     "340": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -16133,8 +15792,7 @@ WEARABLES = {
     },
     "341": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -16174,8 +15832,7 @@ WEARABLES = {
     },
     "342": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -16215,8 +15872,7 @@ WEARABLES = {
     },
     "343": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -16256,8 +15912,7 @@ WEARABLES = {
     },
     "344": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -16297,8 +15952,7 @@ WEARABLES = {
     },
     "345": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -16347,8 +16001,7 @@ WEARABLES = {
     },
     "346": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -16397,8 +16050,7 @@ WEARABLES = {
     },
     "347": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -16438,8 +16090,7 @@ WEARABLES = {
     },
     "348": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -16488,8 +16139,7 @@ WEARABLES = {
     },
     "349": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -16538,8 +16188,7 @@ WEARABLES = {
     },
     "350": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -16579,8 +16228,7 @@ WEARABLES = {
     },
     "351": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -16629,8 +16277,7 @@ WEARABLES = {
     },
     "352": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -16688,8 +16335,7 @@ WEARABLES = {
     },
     "353": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -16729,8 +16375,7 @@ WEARABLES = {
     },
     "354": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -16779,8 +16424,7 @@ WEARABLES = {
     },
     "355": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -16820,8 +16464,7 @@ WEARABLES = {
     },
     "356": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -16861,8 +16504,7 @@ WEARABLES = {
     },
     "357": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -16920,8 +16562,7 @@ WEARABLES = {
     },
     "358": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -16970,8 +16611,7 @@ WEARABLES = {
     },
     "359": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17011,8 +16651,7 @@ WEARABLES = {
     },
     "360": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17061,8 +16700,7 @@ WEARABLES = {
     },
     "361": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -17120,8 +16758,7 @@ WEARABLES = {
     },
     "362": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -17170,8 +16807,7 @@ WEARABLES = {
     },
     "363": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -17220,8 +16856,7 @@ WEARABLES = {
     },
     "364": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -17270,8 +16905,7 @@ WEARABLES = {
     },
     "365": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17320,8 +16954,7 @@ WEARABLES = {
     },
     "366": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -17370,8 +17003,7 @@ WEARABLES = {
     },
     "367": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -17420,8 +17052,7 @@ WEARABLES = {
     },
     "368": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17470,8 +17101,7 @@ WEARABLES = {
     },
     "369": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -17520,8 +17150,7 @@ WEARABLES = {
     },
     "370": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17561,8 +17190,7 @@ WEARABLES = {
     },
     "371": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17602,8 +17230,7 @@ WEARABLES = {
     },
     "372": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17652,8 +17279,7 @@ WEARABLES = {
     },
     "373": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -17693,8 +17319,7 @@ WEARABLES = {
     },
     "374": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17752,8 +17377,7 @@ WEARABLES = {
     },
     "375": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17802,8 +17426,7 @@ WEARABLES = {
     },
     "376": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -17852,8 +17475,7 @@ WEARABLES = {
     },
     "377": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -17902,8 +17524,7 @@ WEARABLES = {
     },
     "378": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17943,8 +17564,7 @@ WEARABLES = {
     },
     "379": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -17984,8 +17604,7 @@ WEARABLES = {
     },
     "380": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18034,8 +17653,7 @@ WEARABLES = {
     },
     "381": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -18075,8 +17693,7 @@ WEARABLES = {
     },
     "382": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -18125,8 +17742,7 @@ WEARABLES = {
     },
     "383": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -18166,8 +17782,7 @@ WEARABLES = {
     },
     "384": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18207,8 +17822,7 @@ WEARABLES = {
     },
     "385": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -18257,8 +17871,7 @@ WEARABLES = {
     },
     "386": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18298,8 +17911,7 @@ WEARABLES = {
     },
     "387": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -18348,8 +17960,7 @@ WEARABLES = {
     },
     "388": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -18389,8 +18000,7 @@ WEARABLES = {
     },
     "389": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -18439,8 +18049,7 @@ WEARABLES = {
     },
     "390": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18498,8 +18107,7 @@ WEARABLES = {
     },
     "391": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -18539,8 +18147,7 @@ WEARABLES = {
     },
     "392": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -18589,8 +18196,7 @@ WEARABLES = {
     },
     "393": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18639,8 +18245,7 @@ WEARABLES = {
     },
     "394": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -18680,8 +18285,7 @@ WEARABLES = {
     },
     "395": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -18721,8 +18325,7 @@ WEARABLES = {
     },
     "396": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -18771,8 +18374,7 @@ WEARABLES = {
     },
     "397": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -18821,8 +18423,7 @@ WEARABLES = {
     },
     "398": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -18871,8 +18472,7 @@ WEARABLES = {
     },
     "399": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -18912,8 +18512,7 @@ WEARABLES = {
     },
     "400": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -18953,8 +18552,7 @@ WEARABLES = {
     },
     "401": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -18994,8 +18592,7 @@ WEARABLES = {
     },
     "402": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19035,8 +18632,7 @@ WEARABLES = {
     },
     "403": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19085,8 +18681,7 @@ WEARABLES = {
     },
     "404": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19126,8 +18721,7 @@ WEARABLES = {
     },
     "405": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19167,8 +18761,7 @@ WEARABLES = {
     },
     "406": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19208,8 +18801,7 @@ WEARABLES = {
     },
     "407": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19249,8 +18841,7 @@ WEARABLES = {
     },
     "408": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -19290,8 +18881,7 @@ WEARABLES = {
     },
     "409": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19331,8 +18921,7 @@ WEARABLES = {
     },
     "410": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -19381,8 +18970,7 @@ WEARABLES = {
     },
     "411": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -19431,8 +19019,7 @@ WEARABLES = {
     },
     "412": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19481,8 +19068,7 @@ WEARABLES = {
     },
     "413": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -19522,8 +19108,7 @@ WEARABLES = {
     },
     "414": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19563,8 +19148,7 @@ WEARABLES = {
     },
     "415": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -19604,8 +19188,7 @@ WEARABLES = {
     },
     "416": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19645,8 +19228,7 @@ WEARABLES = {
     },
     "417": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -19704,8 +19286,7 @@ WEARABLES = {
     },
     "418": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -19763,8 +19344,7 @@ WEARABLES = {
     },
     "419": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19804,8 +19384,7 @@ WEARABLES = {
     },
     "420": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -19854,8 +19433,7 @@ WEARABLES = {
     },
     "421": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -19895,8 +19473,7 @@ WEARABLES = {
     },
     "422": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -19936,8 +19513,7 @@ WEARABLES = {
     },
     "423": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -19995,8 +19571,7 @@ WEARABLES = {
     },
     "424": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -20045,8 +19620,7 @@ WEARABLES = {
     },
     "425": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -20095,8 +19669,7 @@ WEARABLES = {
     },
     "426": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -20136,8 +19709,7 @@ WEARABLES = {
     },
     "427": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20186,8 +19758,7 @@ WEARABLES = {
     },
     "428": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -20236,8 +19807,7 @@ WEARABLES = {
     },
     "429": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -20277,8 +19847,7 @@ WEARABLES = {
     },
     "430": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20318,8 +19887,7 @@ WEARABLES = {
     },
     "431": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20359,8 +19927,7 @@ WEARABLES = {
     },
     "432": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -20409,8 +19976,7 @@ WEARABLES = {
     },
     "433": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -20468,8 +20034,7 @@ WEARABLES = {
     },
     "434": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -20518,8 +20083,7 @@ WEARABLES = {
     },
     "435": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20559,8 +20123,7 @@ WEARABLES = {
     },
     "436": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20600,8 +20163,7 @@ WEARABLES = {
     },
     "437": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -20650,8 +20212,7 @@ WEARABLES = {
     },
     "438": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -20700,8 +20261,7 @@ WEARABLES = {
     },
     "439": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -20741,8 +20301,7 @@ WEARABLES = {
     },
     "440": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -20791,8 +20350,7 @@ WEARABLES = {
     },
     "441": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -20841,8 +20399,7 @@ WEARABLES = {
     },
     "442": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -20891,8 +20448,7 @@ WEARABLES = {
     },
     "443": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -20941,8 +20497,7 @@ WEARABLES = {
     },
     "444": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -20991,8 +20546,7 @@ WEARABLES = {
     },
     "445": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -21041,8 +20595,7 @@ WEARABLES = {
     },
     "446": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -21091,8 +20644,7 @@ WEARABLES = {
     },
     "447": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -21132,8 +20684,7 @@ WEARABLES = {
     },
     "448": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -21182,8 +20733,7 @@ WEARABLES = {
     },
     "449": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21223,8 +20773,7 @@ WEARABLES = {
     },
     "450": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -21273,8 +20822,7 @@ WEARABLES = {
     },
     "451": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21323,8 +20871,7 @@ WEARABLES = {
     },
     "452": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -21373,8 +20920,7 @@ WEARABLES = {
     },
     "453": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21414,8 +20960,7 @@ WEARABLES = {
     },
     "454": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21455,8 +21000,7 @@ WEARABLES = {
     },
     "455": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -21496,8 +21040,7 @@ WEARABLES = {
     },
     "456": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -21555,8 +21098,7 @@ WEARABLES = {
     },
     "457": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -21605,8 +21147,7 @@ WEARABLES = {
     },
     "458": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21646,8 +21187,7 @@ WEARABLES = {
     },
     "459": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -21687,8 +21227,7 @@ WEARABLES = {
     },
     "460": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -21746,8 +21285,7 @@ WEARABLES = {
     },
     "461": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -21796,8 +21334,7 @@ WEARABLES = {
     },
     "462": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -21846,8 +21383,7 @@ WEARABLES = {
     },
     "463": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -21896,8 +21432,7 @@ WEARABLES = {
     },
     "464": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -21937,8 +21472,7 @@ WEARABLES = {
     },
     "465": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -21987,8 +21521,7 @@ WEARABLES = {
     },
     "466": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -22046,8 +21579,7 @@ WEARABLES = {
     },
     "467": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -22105,8 +21637,7 @@ WEARABLES = {
     },
     "468": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -22155,8 +21686,7 @@ WEARABLES = {
     },
     "469": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -22205,8 +21735,7 @@ WEARABLES = {
     },
     "470": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -22264,8 +21793,7 @@ WEARABLES = {
     },
     "471": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -22314,8 +21842,7 @@ WEARABLES = {
     },
     "472": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -22364,8 +21891,7 @@ WEARABLES = {
     },
     "473": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -22405,8 +21931,7 @@ WEARABLES = {
     },
     "474": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -22455,8 +21980,7 @@ WEARABLES = {
     },
     "475": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -22505,8 +22029,7 @@ WEARABLES = {
     },
     "476": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -22555,8 +22078,7 @@ WEARABLES = {
     },
     "477": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -22605,8 +22127,7 @@ WEARABLES = {
     },
     "478": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -22646,8 +22167,7 @@ WEARABLES = {
     },
     "479": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -22687,8 +22207,7 @@ WEARABLES = {
     },
     "480": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -22728,8 +22247,7 @@ WEARABLES = {
     },
     "481": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 4,
                 "ipfs_hash": "QmNmWhrRiUeyegKTpRjmxAxPAsZ5x2drz8H9zUxKp6QrCP",
                 "name": "gloves",
@@ -22778,8 +22296,7 @@ WEARABLES = {
     },
     "482": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -22819,8 +22336,7 @@ WEARABLES = {
     },
     "483": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -22869,8 +22385,7 @@ WEARABLES = {
     },
     "484": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -22919,8 +22434,7 @@ WEARABLES = {
     },
     "485": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -22969,8 +22483,7 @@ WEARABLES = {
     },
     "486": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -23019,8 +22532,7 @@ WEARABLES = {
     },
     "487": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -23060,8 +22572,7 @@ WEARABLES = {
     },
     "488": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -23101,8 +22612,7 @@ WEARABLES = {
     },
     "489": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -23142,8 +22652,7 @@ WEARABLES = {
     },
     "490": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -23192,8 +22701,7 @@ WEARABLES = {
     },
     "491": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 5,
                 "ipfs_hash": "QmQSckTXaGa4NkEo8cS6BuD2uX4dz3f2NQf1B7ptW6Fdh2",
                 "name": "toque",
@@ -23233,8 +22741,7 @@ WEARABLES = {
     },
     "492": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 1,
                 "ipfs_hash": "QmaVerGGYUzy4RqbGcWES6cXfGV5eVeHkeiJ4zXHQ3Kub4",
                 "name": "skeleton mask",
@@ -23283,8 +22790,7 @@ WEARABLES = {
     },
     "493": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -23324,8 +22830,7 @@ WEARABLES = {
     },
     "494": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 6,
                 "ipfs_hash": "QmTTdo2vPcpFtcU2kervq6ZEpyqbiZNz7gXWByezP8Gb9X",
                 "name": "sandals",
@@ -23374,8 +22879,7 @@ WEARABLES = {
     },
     "495": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 7,
                 "ipfs_hash": "QmRWic4REgxR7D7BRSgEvqhUZegBuspBFLrBkhEKohvPRD",
                 "name": "crown",
@@ -23424,8 +22928,7 @@ WEARABLES = {
     },
     "496": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -23474,8 +22977,7 @@ WEARABLES = {
     },
     "497": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",
@@ -23515,8 +23017,7 @@ WEARABLES = {
     },
     "498": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 3,
                 "ipfs_hash": "QmSZ3NhnUwthZcJNHN7VgFUzGVVTJSL2VnrZEmJzQb12GD",
                 "name": "satchel",
@@ -23556,8 +23057,7 @@ WEARABLES = {
     },
     "499": {
         "dooplicated": false,
-        "items": [
-            {
+        "items": [{
                 "wearable_id": 2,
                 "ipfs_hash": "QmRD8FdPeJDWp9By6zdW3HNgF5As9spauek8m8cycBe7VX",
                 "name": "sweater",

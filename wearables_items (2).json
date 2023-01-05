@@ -1,0 +1,10 @@
+{
+    "0": {
+        "dooplicated": false,
+        "items": [1, 5, 6, 2]
+    },
+    "1": {
+        "dooplicated": false,
+        "items": [1, 4, 7, 5]
+    }
+}
